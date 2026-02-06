@@ -35,6 +35,14 @@ Ideas, research, and exploration.
 | [User Stories](brainstorming/user-stories.md) | User personas and stories |
 | [Inspiration & Research](brainstorming/inspiration.md) | Reference apps, articles, and inspiration |
 
+### Content Ideas
+
+Study topics and reference material for the app.
+
+| Document | Description |
+|----------|-------------|
+| [Major Women of the Bible](brainstorming/content-ideas/bible-women.md) | 25 major women characters ordered by book (KJV) |
+
 ## Decisions
 
 Architectural decision records (ADRs) to document key choices.
