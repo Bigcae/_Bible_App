@@ -42,6 +42,7 @@ Study topics and reference material for the app.
 | Document | Description |
 |----------|-------------|
 | [Major Women of the Bible](brainstorming/content-ideas/bible-women.md) | 25 major women characters ordered by book (KJV) |
+| [Book Summaries](brainstorming/content-ideas/book-summaries.md) | One-sentence summary of all 66 books (KJV) |
 
 ## Decisions
 
